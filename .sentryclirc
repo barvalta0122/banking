@@ -1,0 +1,8 @@
+[auth]
+token=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
+
+[defaults]
+url=https://sentry.io/
+org=my-organization
+project=my-project
+
